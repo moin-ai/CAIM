@@ -1,0 +1,9 @@
+enabled: '1'
+embed_types: video
+full_post: '0'
+locales: en_US
+data_lazy: '0'
+autoplay: '0'
+allowfullscreen: '0'
+show_captions: '0'
+include_parent: '0'

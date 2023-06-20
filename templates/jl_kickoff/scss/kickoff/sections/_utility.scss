@@ -1,0 +1,17 @@
+#g-utility {
+    color: $utility-text-color;
+    background: $utility-background;
+    @if $utility-background-image {
+        background-position: center left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url($utility-background-image);
+    }
+}
+
+@media print {
+    #g-utility {
+        background: #fff !important;
+        color: #000 !important;
+    }
+}

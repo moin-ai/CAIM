@@ -1,0 +1,9 @@
+preset: preset1
+accent:
+  color-1: '#15a195'
+menustyle:
+  text-color-active: '#0e163d'
+  sublevel-text-color-hover: '#0e163d'
+  sublevel-text-color-active: '#0e163d'
+expanded:
+  background: '#0e163d'

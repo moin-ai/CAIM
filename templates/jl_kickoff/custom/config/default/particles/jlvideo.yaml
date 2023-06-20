@@ -1,0 +1,9 @@
+enabled: '1'
+source: local
+controls: enabled
+loop: disabled
+muted: disabled
+play_inline: disabled
+lazy_video: disabled
+autoplay: 'off'
+video_box_shadow: none

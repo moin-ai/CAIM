@@ -1,0 +1,9 @@
+kickoff-theme:
+  title: 'Kickoff Theme'
+  description: 'Sample menu for the theme.'
+
+  items:
+    kickoff:
+      title: 'Home'
+      outline: home
+      home: 1
