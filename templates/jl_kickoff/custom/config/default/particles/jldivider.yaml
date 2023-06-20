@@ -1,7 +1,0 @@
-enabled: '1'
-divider_style: default
-divider_element: hr
-divider_align: inherit
-divider_breakpoint: always
-divider_fallback: inherit
-divider_border: '1'

@@ -1,5 +1,0 @@
-enabled: '1'
-alert_linktarget: _self
-alertstyle: default
-alert_size: '0'
-closebutton: '0'
